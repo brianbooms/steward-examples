@@ -25,6 +25,7 @@ npx -y @brianbooms/steward-mcp   # requires Node 20+
 | Steward skill | [steward-skills](https://github.com/brianbooms/steward-skills) | A skill that lets AI agents pay per API call in USDC on Base via x402 |
 | Eval kit | [steward-eval-kit](https://github.com/brianbooms/steward-eval-kit) | A drop-in reference merchant for agent evals — agents learn to check trust + respect spend caps before paying |
 | MCP server (canonical) | [steward-mcp](https://github.com/brianbooms/steward-mcp) | The server itself: 25 tools, trust verification, spend controls, merchant directory |
+| Your first x402 payment | [first-payment/](first-payment/) | Buy one Penny Joke for exactly $0.01 USDC on Base — the canonical test purchase that proves an x402 client end to end (TypeScript + Python) |
 
 ## MCP client configs — ready to paste
 
